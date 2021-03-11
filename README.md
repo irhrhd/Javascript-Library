@@ -22,7 +22,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Spreadsheet](#spreadsheet)
   * [Editors](#editors)
   * [Documentation](#documentation)
-  * Utilities
+  * [Utilities](#utilities)
     * [Files](#files)
     * [Functional Programming](#functional-programming)
     * [Reactive Programming](#reactive-programming)
@@ -46,7 +46,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     * [Browser Detection](#browser-detection)
     * [Benchmark](#benchmark)
     * [Machine Learning](#machine-learning)
-  * UI
+  * [UI](#ui)
     * [Code Highlighting](#code-highlighting)
     * [Loading Status](#loading-status)
     * [Validation](#validation)
