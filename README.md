@@ -1,5 +1,5 @@
 # JavaScript Library
-<img src="https://res.cloudinary.com/teepublic/image/private/s--O8q8MDky--/c_crop,x_10,y_10/c_fit,h_1109/c_crop,g_north_west,h_1260,w_1260,x_-79,y_-76/co_rgb:000000,e_colorize,u_Misc:One%20Pixel%20Gray/c_scale,g_north_west,h_1260,w_1260/fl_layer_apply,g_north_west,x_-79,y_-76/bo_126px_solid_white/e_overlay,fl_layer_apply,h_1260,l_Misc:Art%20Print%20Bumpmap,w_1260/e_shadow,x_6,y_6/c_limit,h_1134,w_1134/c_lpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1539273632/production/designs/3302075_0.jpg">
+<center><img src="https://res.cloudinary.com/teepublic/image/private/s--O8q8MDky--/c_crop,x_10,y_10/c_fit,h_1109/c_crop,g_north_west,h_1260,w_1260,x_-79,y_-76/co_rgb:000000,e_colorize,u_Misc:One%20Pixel%20Gray/c_scale,g_north_west,h_1260,w_1260/fl_layer_apply,g_north_west,x_-79,y_-76/bo_126px_solid_white/e_overlay,fl_layer_apply,h_1260,l_Misc:Art%20Print%20Bumpmap,w_1260/e_shadow,x_6,y_6/c_limit,h_1134,w_1134/c_lpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1539273632/production/designs/3302075_0.jpg"></center>
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
 * [Awesome JavaScript](#awesome-javascript)
@@ -1002,33 +1002,3 @@ http://www.listjs.com
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
 
 
-# Other Awesome Lists
-* [sotayamashita/awesome-css](https://github.com/sotayamashita/awesome-css)
-* [emijrp/awesome-awesome](https://github.com/emijrp/awesome-awesome)
-* [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-* [jnv/list](https://github.com/jnv/lists)
-* [gianarb/angularjs](https://github.com/gianarb/awesome-angularjs)
-* [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)
-* [addyosmani/es6-tools](https://github.com/addyosmani/es6-tools)
-* [ericdouglas/ES6-Learning](https://github.com/ericdouglas/ES6-Learning)
-* [obetomuniz/awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents)
-* [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg)
-* [davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
-* [instanceofpro/awesome-backbone](https://github.com/sadcitizen/awesome-backbone)
-* [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-* [bolshchikov/js-must-watch](https://github.com/bolshchikov/js-must-watch)
-* [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
-* [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
-* [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
-* [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
-
-# Contributing
-
-Contributions welcome! Read the [contribution guidelines](.github/CONTRIBUTING.md) first.
-
-# License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
