@@ -1,5 +1,5 @@
 # JavaScript Library
-
+<img scr="https://pasteboard.co/JSa1j5Y.png" alt="JavaScript Library">
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
 * [Awesome JavaScript](#awesome-javascript)
