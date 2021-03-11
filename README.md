@@ -3,7 +3,7 @@
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=learb%20how%to%20code%20for%20free%20with%20on%20javascript%204&url=https://github.com/irhrhd&via=irhrhd&hashtags=github,design,library,javascript,developers)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Learn%20how%to%20code%20for%20free%20with%20on%20javascript%204&url=https://github.com/irhrhd&via=irhrhd&hashtags=github,design,library,javascript,developers)
 
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
